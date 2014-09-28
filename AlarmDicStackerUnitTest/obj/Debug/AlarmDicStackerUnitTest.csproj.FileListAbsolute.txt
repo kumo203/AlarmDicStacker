@@ -1,0 +1,4 @@
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStackerUnitTest\bin\Debug\AlarmDicStackerUnitTest.dll
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStackerUnitTest\bin\Debug\AlarmDicStackerUnitTest.pdb
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStackerUnitTest\obj\Debug\AlarmDicStackerUnitTest.dll
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStackerUnitTest\obj\Debug\AlarmDicStackerUnitTest.pdb

@@ -1,0 +1,11 @@
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStacker\bin\Debug\AlarmDicStacker.exe.config
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStacker\bin\Debug\AlarmDicStacker.exe
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStacker\bin\Debug\AlarmDicStacker.pdb
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStacker\obj\Debug\AlarmDicStacker.csprojResolveAssemblyReference.cache
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStacker\obj\Debug\AlarmDicStacker.Form1.resources
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStacker\obj\Debug\AlarmDicStacker.Properties.Resources.resources
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStacker\obj\Debug\AlarmDicStacker.csproj.GenerateResource.Cache
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStacker\obj\Debug\AlarmDicStacker.exe
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStacker\obj\Debug\AlarmDicStacker.pdb
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStacker\bin\Debug\AlarmDicStackerUnitTest.dll
+c:\users\ytp\documents\visual studio 2013\Projects\AlarmDicStacker\AlarmDicStacker\bin\Debug\AlarmDicStackerUnitTest.pdb
